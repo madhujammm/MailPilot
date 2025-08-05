@@ -15,12 +15,6 @@ Automatically scans unread emails, understands their content using LLM (LLaMA3 v
 
 ---
 
-## 🚀 Demo (Coming soon)
-
-Wanna see it in action? Video/GIF coming 🔜
-
----
-
 ## 🧰 Tech Stack
 
 | Tool      | Purpose                                |
